@@ -3,4 +3,4 @@ You can use this app to predict the IMDB score for any potential movie - input t
 
 Consider a movie being directed by Christopher Nolan combining elemnts fo Drama, fantasy and Sci-Fi and starring Tom Cruise, Christian Bale and Emilia Clarke. the model predicts a score of 8.48!
 
-[Pic](app.png)
+![app](app.png)
